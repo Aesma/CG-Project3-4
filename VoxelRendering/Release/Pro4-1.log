@@ -1,0 +1,57 @@
+﻿生成启动时间为 2017/11/10 12:17:57。
+     1>项目“G:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\Assignment2.files\Pro4-1\Pro4-1\Pro4-1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         G:\VS2013\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Sphere.cpp glCanvas.Cpp grid.cpp group.cpp light.Cpp main.cpp plane.cpp raytracer.cpp scene_parser.Cpp transform.cpp triangle.cpp
+         Sphere.cpp
+         glCanvas.Cpp
+         grid.cpp
+     1>grid.cpp(163): warning C4056: 浮点常量算术溢出
+     1>grid.cpp(167): warning C4056: 浮点常量算术溢出
+     1>grid.cpp(171): warning C4056: 浮点常量算术溢出
+         group.cpp
+         light.Cpp
+         main.cpp
+         plane.cpp
+         raytracer.cpp
+         scene_parser.Cpp
+         transform.cpp
+         triangle.cpp
+       Link:
+         G:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\Assignment2.files\Pro4-1\Release\Pro4-1.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\Assignment2.files\Pro4-1\Release\Pro4-1.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\Assignment2.files\Pro4-1\Release\Pro4-1.lib" /MACHINE:X86 /SAFESEH Release\boundingbox.obj
+         Release\grid.obj
+         Release\glCanvas.obj
+         Release\group.obj
+         Release\image.obj
+         Release\light.obj
+         Release\main.obj
+         Release\marchinginfo.obj
+         Release\matrix.obj
+         Release\OrthographicCamera.obj
+         Release\perspectivecamera.obj
+         Release\phongmaterial.obj
+         Release\plane.obj
+         Release\raytracer.obj
+         Release\rayTree.obj
+         Release\scene_parser.obj
+         Release\Sphere.obj
+         Release\transform.obj
+         Release\triangle.obj
+         正在生成代码
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\marchinginfo.cpp(6): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\marchinginfo.cpp(7): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\marchinginfo.cpp(8): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\marchinginfo.cpp(9): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\marchinginfo.cpp(6): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\light.h(46): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\grid.cpp(110): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\grid.cpp(163): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\grid.cpp(167): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\grid.cpp(171): warning C4756: 常量算法中溢出
+     1>g:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\assignment2.files\pro4-1\pro4-1\grid.cpp(163): warning C4756: 常量算法中溢出
+         已完成代码的生成
+         Pro4-1.vcxproj -> G:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\Assignment2.files\Pro4-1\Release\Pro4-1.exe
+     1>已完成生成项目“G:\作业\计算机图形学\作业要求\作业要求\作业3-0_files\32\Assignment2.files\Pro4-1\Pro4-1\Pro4-1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.42
